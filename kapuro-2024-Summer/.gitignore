@@ -72,7 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Font Asset
-*/NotoSansJP-VariableFont_wght SDF.asset
+*SDF.asset
 
 # FMOD
 *.a
